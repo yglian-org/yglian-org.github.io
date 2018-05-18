@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Sunlight chain
-      url: https://m2.qschou.com
+      external_url: https://m2.qschou.com
 
 #Topnav dropdownss
 topnav_dropdowns:

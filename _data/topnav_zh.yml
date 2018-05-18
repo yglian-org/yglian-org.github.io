@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: 阳光链官网
-      url: https://m2.qschou.com
+      external_url: https://m2.qschou.com
 
 #Topnav dropdownss
 topnav_dropdowns:
