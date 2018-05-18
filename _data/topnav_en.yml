@@ -12,7 +12,7 @@ topnav_dropdowns:
   folders:
     - title: Language
       folderitems:
-        - title: 中文
-          url: ""
+        - title: Chinese
+          url: "index_zh.html"
         - title: ENGLISH
-          url: "en"
+          url: "index_en.html"

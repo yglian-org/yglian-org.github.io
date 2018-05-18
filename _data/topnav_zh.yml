@@ -3,16 +3,16 @@
 topnav:
 - title: Topnav
   items:
-    - title: Sunlight chain
+    - title: 阳光链官网
       url: https://m2.qschou.com
 
 #Topnav dropdownss
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Language
+    - title: 语言
       folderitems:
         - title: 中文
-          url: ""
-        - title: ENGLISH
-          url: "en"
+          url: "index_zh.html"
+        - title: 英文
+          url: "index_en.html"
