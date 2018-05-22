@@ -76,8 +76,8 @@ defaults:
       layout: "page"
       comments: true
       search: true
-      sidebar: home_sidebar
-      topnav: topnav
+      sidebar: sunlight_doc_sidebar_zh
+      topnav: topnav_zh
   -
     scope:
       path: ""
@@ -96,8 +96,8 @@ defaults:
       layout: "post"
       comments: true
       search: true
-      sidebar: home_sidebar
-      topnav: topnav
+      sidebar: sunlight_doc_sidebar_zh
+      topnav: topnav_zh
 
 # these are defaults used for the frontmatter for these file types
 
